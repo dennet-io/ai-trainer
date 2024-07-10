@@ -1,0 +1,8 @@
+scipy>=1.13.0
+pyserial>=3.5
+pillow>=10.3.0
+opencv-python>=4.9.0.80
+matplotlib>=3.8.4
+numpy>=1.26.4
+keyboard>=0.13.5
+psycopg2-binary>=2.9.9
