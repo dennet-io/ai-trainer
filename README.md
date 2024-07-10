@@ -1,8 +1,10 @@
 # AI Trainer
 
-A 3 part project to allow young children to play a game. Basically they can turn knobs to influence a color and they have to try and reach to goal color. As quickly and closely as possible. 
+A 3 part project to allow young children to play a game. By turning knobs they influence one of the RGBA values of a color. The goal is to create the left color as quickly and closely as possible. 
 
-The trainier was built for an expedition on [Expeditie Next on how to train AI](https://expeditienext.nl/activiteit/hoe-train-je-ai/). As the target group was children between 6 and 12, this is a gross simplification. The expedition took place in the 'Walburgiskerk' in Zutphen on the 1st of May 2024.
+The trainer was built for an expedition on [Expeditie Next on how to train AI](https://expeditienext.nl/activiteit/hoe-train-je-ai/). As the target group were children between the age of 6 and 12, this is a gross simplification. In this setting the children would each represent a node in a model. By playing the game the could be trained and after a few rounds the model was complete.
+
+The expedition took place in the 'Walburgiskerk' in Zutphen on the 1st of May 2024.
 
 ![Set up](./img/photo.jpeg "Set up")
 
